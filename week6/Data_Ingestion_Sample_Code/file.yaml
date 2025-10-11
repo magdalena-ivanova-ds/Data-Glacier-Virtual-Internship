@@ -1,0 +1,25 @@
+file_type: csv
+dataset_name: testfile
+file_name: Bank
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - age
+    - job
+    - marital
+    - education
+    - default
+    - balance
+    - housing
+    - loan
+    - contact
+    - day
+    - month
+    - duration
+    - campaign
+    - pdays
+    - previous
+    - poutcome
+    - y

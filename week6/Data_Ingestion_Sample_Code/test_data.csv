@@ -1,0 +1,3 @@
+age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
+34,management,married,tertiary,yes,2143,yes,yes,cellular,5,may,261,1,-1,0,unknown,yes
+30,services,single,secondary,no,1506,no,no,unknown,30,apr,329,5,-2,0,other,no
